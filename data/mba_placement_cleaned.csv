@@ -1,0 +1,501 @@
+Gender,MBA_Stream,Work_Experience,CGPA,Entrance_Exam_Score,Placement_Status,Salary,Company,Salary_LPA,Placed_Flag,CGPA_Category,Entrance_Score_Category
+Male,Business Analytics,Yes,6.52,56.4,Placed,628821.0,Deloitte,6.28821,1,Medium,Poor
+Female,Business Analytics,No,5.93,97.5,Not Placed,,Not Applicable,,0,Low,Excellent
+Male,Marketing,Yes,6.55,72.2,Not Placed,,Not Applicable,,0,Medium,Average
+Male,Hr,Yes,8.61,61.6,Placed,383555.0,Icici Bank,3.83555,1,Excellent,Average
+Male,Finance,Yes,9.18,53.6,Placed,476806.0,Flipkart,4.76806,1,Excellent,Poor
+Female,Marketing,No,9.07,58.3,Not Placed,,Not Applicable,,0,Excellent,Poor
+Male,Finance,No,7.21,75.5,Placed,733819.0,Tcs,7.33819,1,Medium,Good
+Male,Finance,Yes,8.37,66.5,Placed,1299430.0,Infosys,12.9943,1,High,Average
+Male,Hr,Yes,6.38,90.6,Not Placed,,Not Applicable,,0,Low,Excellent
+Female,Finance,Yes,6.76,71.1,Placed,368803.0,Flipkart,3.68803,1,Medium,Average
+Male,Finance,Yes,9.35,62.2,Placed,1107744.0,Amazon,11.07744,1,Excellent,Average
+Male,Hr,No,5.56,80.2,Placed,1048736.0,Kpmg,10.48736,1,Low,Good
+Male,Finance,No,5.87,84.6,Not Placed,,Not Applicable,,0,Low,Good
+Male,Finance,No,6.39,58.2,Placed,999539.0,Infosys,9.99539,1,Low,Poor
+Female,Finance,No,5.61,58.2,Placed,545404.0,Tcs,5.45404,1,Low,Poor
+Male,Marketing,Yes,6.28,51.8,Not Placed,,Not Applicable,,0,Low,Poor
+Female,Marketing,Yes,8.01,86.1,Placed,942249.0,Hdfc Bank,9.42249,1,High,Good
+Female,Marketing,Yes,7.31,82.5,Not Placed,,Not Applicable,,0,Medium,Good
+Female,Hr,No,9.34,73.3,Placed,317297.0,Infosys,3.17297,1,Excellent,Average
+Male,Business Analytics,Yes,9.02,91.4,Not Placed,,Not Applicable,,0,Excellent,Excellent
+Female,Finance,No,6.97,89.5,Placed,1088443.0,Amazon,10.88443,1,Medium,Good
+Male,Finance,No,6.62,78.7,Placed,1468810.0,Deloitte,14.6881,1,Medium,Good
+Female,Hr,Yes,7.13,92.5,Placed,868302.0,Hdfc Bank,8.68302,1,Medium,Excellent
+Female,Finance,Yes,8.04,60.1,Placed,1229242.0,Flipkart,12.29242,1,High,Average
+Female,Marketing,Yes,6.65,55.5,Not Placed,,Not Applicable,,0,Medium,Poor
+Female,Business Analytics,No,8.18,63.2,Not Placed,,Not Applicable,,0,High,Average
+Female,Operations,Yes,7.26,52.8,Placed,1083152.0,Hdfc Bank,10.83152,1,Medium,Poor
+Female,Finance,No,7.87,76.0,Placed,1097552.0,Accenture,10.97552,1,High,Good
+Female,Marketing,Yes,7.38,95.9,Not Placed,,Not Applicable,,0,Medium,Excellent
+Female,Operations,No,6.77,51.9,Not Placed,,Not Applicable,,0,Medium,Poor
+Male,Business Analytics,No,9.58,56.0,Placed,811603.0,Amazon,8.11603,1,Excellent,Poor
+Male,Operations,Yes,8.78,72.2,Placed,915863.0,Infosys,9.15863,1,Excellent,Average
+Female,Marketing,No,6.1,95.8,Placed,1343659.0,Accenture,13.43659,1,Low,Excellent
+Female,Operations,No,9.23,65.5,Placed,807365.0,Hdfc Bank,8.07365,1,Excellent,Average
+Female,Hr,Yes,7.6,74.9,Placed,1497086.0,Accenture,14.97086,1,High,Average
+Male,Operations,No,9.35,52.0,Placed,1322788.0,Ey,13.22788,1,Excellent,Poor
+Female,Finance,Yes,8.94,57.3,Placed,1128791.0,Amazon,11.28791,1,Excellent,Poor
+Male,Finance,No,7.33,98.3,Not Placed,,Not Applicable,,0,Medium,Excellent
+Male,Hr,Yes,5.6,97.3,Placed,660890.0,Icici Bank,6.6089,1,Low,Excellent
+Male,Marketing,Yes,6.66,50.2,Placed,1049122.0,Deloitte,10.49122,1,Medium,Poor
+Male,Finance,No,7.83,96.6,Placed,945194.0,Hdfc Bank,9.45194,1,High,Excellent
+Male,Business Analytics,No,8.22,81.3,Placed,501260.0,Amazon,5.0126,1,High,Good
+Female,Finance,No,6.61,92.5,Placed,1077881.0,Icici Bank,10.77881,1,Medium,Excellent
+Female,Finance,No,6.1,72.3,Placed,1133525.0,Icici Bank,11.33525,1,Low,Average
+Female,Marketing,No,9.09,75.3,Placed,676794.0,Tcs,6.76794,1,Excellent,Good
+Female,Operations,Yes,9.73,74.0,Placed,1236197.0,Accenture,12.36197,1,Excellent,Average
+Female,Finance,No,7.76,82.7,Placed,683100.0,Icici Bank,6.831,1,High,Good
+Male,Hr,Yes,6.24,56.8,Placed,415598.0,Ey,4.15598,1,Low,Poor
+Female,Operations,Yes,6.67,51.5,Not Placed,,Not Applicable,,0,Medium,Poor
+Female,Business Analytics,No,5.58,65.1,Placed,550100.0,Amazon,5.501,1,Low,Average
+Male,Marketing,Yes,9.43,84.5,Not Placed,,Not Applicable,,0,Excellent,Good
+Female,Business Analytics,Yes,6.01,59.9,Placed,1082877.0,Kpmg,10.82877,1,Low,Poor
+Male,Operations,Yes,7.98,83.0,Placed,1008521.0,Kpmg,10.08521,1,High,Good
+Female,Operations,Yes,6.68,97.5,Placed,1076676.0,Hdfc Bank,10.76676,1,Medium,Excellent
+Male,Operations,No,7.88,54.6,Placed,433241.0,Flipkart,4.33241,1,High,Poor
+Female,Business Analytics,Yes,8.3,83.0,Not Placed,,Not Applicable,,0,High,Good
+Female,Operations,No,9.07,71.7,Placed,308036.0,Accenture,3.08036,1,Excellent,Average
+Male,Business Analytics,No,6.39,92.5,Not Placed,,Not Applicable,,0,Low,Excellent
+Male,Operations,Yes,5.55,58.7,Placed,1245238.0,Flipkart,12.45238,1,Low,Poor
+Male,Hr,No,6.09,83.9,Placed,1283825.0,Icici Bank,12.83825,1,Low,Good
+Male,Operations,No,9.37,91.1,Placed,502747.0,Amazon,5.02747,1,Excellent,Excellent
+Male,Business Analytics,No,9.26,96.3,Placed,843088.0,Hdfc Bank,8.43088,1,Excellent,Excellent
+Male,Finance,Yes,8.07,83.5,Placed,1150350.0,Infosys,11.5035,1,High,Good
+Male,Operations,No,8.08,74.4,Placed,1232477.0,Icici Bank,12.32477,1,High,Average
+Male,Finance,No,8.36,80.3,Placed,1055600.0,Accenture,10.556,1,High,Good
+Female,Hr,No,6.25,92.6,Placed,1408076.0,Kpmg,14.08076,1,Low,Excellent
+Female,Marketing,Yes,9.43,78.0,Not Placed,,Not Applicable,,0,Excellent,Good
+Male,Hr,No,7.3,51.5,Not Placed,,Not Applicable,,0,Medium,Poor
+Female,Operations,Yes,7.15,95.6,Not Placed,,Not Applicable,,0,Medium,Excellent
+Female,Finance,Yes,7.73,83.8,Placed,467647.0,Tcs,4.67647,1,High,Good
+Female,Finance,Yes,5.7,83.1,Placed,536527.0,Amazon,5.36527,1,Low,Good
+Female,Business Analytics,Yes,6.22,60.6,Placed,735477.0,Deloitte,7.35477,1,Low,Average
+Male,Finance,Yes,8.67,82.3,Not Placed,,Not Applicable,,0,Excellent,Good
+Female,Business Analytics,Yes,5.86,69.3,Placed,852004.0,Flipkart,8.52004,1,Low,Average
+Male,Marketing,No,8.09,81.9,Placed,302352.0,Hdfc Bank,3.02352,1,High,Good
+Female,Operations,Yes,6.56,55.2,Not Placed,,Not Applicable,,0,Medium,Poor
+Female,Business Analytics,No,7.17,82.2,Placed,433004.0,Flipkart,4.33004,1,Medium,Good
+Female,Marketing,No,6.74,99.0,Placed,1162881.0,Amazon,11.62881,1,Medium,Excellent
+Male,Finance,Yes,7.03,52.4,Placed,1086261.0,Flipkart,10.86261,1,Medium,Poor
+Female,Finance,No,8.59,97.9,Placed,960858.0,Amazon,9.60858,1,Excellent,Excellent
+Male,Marketing,No,6.78,69.9,Placed,1031478.0,Flipkart,10.31478,1,Medium,Average
+Female,Finance,No,7.94,92.7,Placed,350098.0,Ey,3.50098,1,High,Excellent
+Male,Marketing,No,7.55,88.3,Placed,1281890.0,Infosys,12.8189,1,High,Good
+Female,Business Analytics,Yes,8.35,77.8,Placed,674313.0,Icici Bank,6.74313,1,High,Good
+Male,Business Analytics,No,9.53,86.2,Not Placed,,Not Applicable,,0,Excellent,Good
+Male,Marketing,Yes,8.65,93.0,Placed,964929.0,Icici Bank,9.64929,1,Excellent,Excellent
+Female,Business Analytics,No,6.42,69.8,Placed,547199.0,Accenture,5.47199,1,Low,Average
+Male,Business Analytics,No,5.63,66.0,Placed,426060.0,Deloitte,4.2606,1,Low,Average
+Female,Business Analytics,Yes,6.63,82.7,Not Placed,,Not Applicable,,0,Medium,Good
+Female,Hr,No,8.06,89.6,Placed,430544.0,Deloitte,4.30544,1,High,Good
+Female,Operations,No,5.72,87.4,Placed,824628.0,Accenture,8.24628,1,Low,Good
+Female,Finance,No,7.63,89.1,Not Placed,,Not Applicable,,0,High,Good
+Female,Hr,Yes,8.07,71.3,Not Placed,,Not Applicable,,0,High,Average
+Female,Business Analytics,No,6.94,90.1,Placed,999309.0,Tcs,9.99309,1,Medium,Excellent
+Female,Marketing,Yes,8.81,55.9,Not Placed,,Not Applicable,,0,Excellent,Poor
+Female,Business Analytics,No,5.96,76.7,Placed,906590.0,Icici Bank,9.0659,1,Low,Good
+Female,Operations,Yes,5.82,50.3,Placed,1279947.0,Tcs,12.79947,1,Low,Poor
+Female,Business Analytics,Yes,8.63,65.9,Placed,1047028.0,Amazon,10.47028,1,Excellent,Average
+Female,Marketing,No,7.63,68.0,Placed,767243.0,Amazon,7.67243,1,High,Average
+Male,Operations,No,8.46,69.4,Not Placed,,Not Applicable,,0,High,Average
+Male,Business Analytics,Yes,7.37,84.1,Placed,824426.0,Kpmg,8.24426,1,Medium,Good
+Female,Operations,Yes,6.56,69.0,Placed,693574.0,Flipkart,6.93574,1,Medium,Average
+Female,Finance,No,9.02,72.0,Not Placed,,Not Applicable,,0,Excellent,Average
+Female,Finance,Yes,8.94,61.6,Not Placed,,Not Applicable,,0,Excellent,Average
+Female,Business Analytics,No,8.49,68.3,Placed,768466.0,Deloitte,7.68466,1,High,Average
+Female,Operations,No,6.67,61.1,Placed,1171808.0,Kpmg,11.71808,1,Medium,Average
+Female,Marketing,No,8.04,53.6,Placed,456951.0,Infosys,4.56951,1,High,Poor
+Female,Business Analytics,No,7.05,79.6,Not Placed,,Not Applicable,,0,Medium,Good
+Female,Finance,Yes,5.89,82.7,Placed,1167964.0,Accenture,11.67964,1,Low,Good
+Male,Finance,No,9.44,80.4,Not Placed,,Not Applicable,,0,Excellent,Good
+Female,Business Analytics,Yes,6.09,72.7,Placed,1142210.0,Accenture,11.4221,1,Low,Average
+Male,Operations,No,9.59,68.6,Placed,862060.0,Amazon,8.6206,1,Excellent,Average
+Female,Finance,Yes,7.42,92.3,Placed,1407054.0,Icici Bank,14.07054,1,Medium,Excellent
+Female,Operations,No,6.3,75.4,Placed,851050.0,Tcs,8.5105,1,Low,Good
+Male,Finance,Yes,7.83,73.5,Placed,1492931.0,Deloitte,14.92931,1,High,Average
+Female,Finance,Yes,9.25,51.3,Not Placed,,Not Applicable,,0,Excellent,Poor
+Male,Hr,No,8.65,66.7,Placed,994780.0,Kpmg,9.9478,1,Excellent,Average
+Female,Finance,No,8.97,68.6,Placed,1142000.0,Tcs,11.42,1,Excellent,Average
+Female,Marketing,No,8.33,69.5,Not Placed,,Not Applicable,,0,High,Average
+Male,Business Analytics,No,8.48,78.4,Placed,1171522.0,Kpmg,11.71522,1,High,Good
+Female,Business Analytics,Yes,9.15,76.1,Not Placed,,Not Applicable,,0,Excellent,Good
+Male,Operations,No,6.57,79.8,Placed,1143601.0,Flipkart,11.43601,1,Medium,Good
+Female,Finance,Yes,7.6,87.5,Placed,899253.0,Infosys,8.99253,1,High,Good
+Male,Marketing,Yes,6.45,89.8,Placed,477912.0,Infosys,4.77912,1,Low,Good
+Male,Operations,No,9.75,85.2,Placed,475767.0,Tcs,4.75767,1,Excellent,Good
+Female,Hr,Yes,9.56,96.8,Not Placed,,Not Applicable,,0,Excellent,Excellent
+Female,Operations,Yes,5.67,50.9,Placed,536281.0,Tcs,5.36281,1,Low,Poor
+Male,Operations,Yes,8.53,59.6,Placed,384754.0,Tcs,3.84754,1,Excellent,Poor
+Female,Finance,Yes,9.48,50.4,Placed,902276.0,Kpmg,9.02276,1,Excellent,Poor
+Female,Hr,No,6.28,81.7,Placed,807732.0,Flipkart,8.07732,1,Low,Good
+Female,Operations,No,7.94,94.0,Not Placed,,Not Applicable,,0,High,Excellent
+Male,Marketing,No,9.44,61.9,Placed,450023.0,Ey,4.50023,1,Excellent,Average
+Male,Marketing,No,5.65,95.4,Placed,380388.0,Tcs,3.80388,1,Low,Excellent
+Male,Business Analytics,Yes,8.5,53.0,Not Placed,,Not Applicable,,0,High,Poor
+Male,Hr,Yes,6.78,95.8,Placed,539779.0,Icici Bank,5.39779,1,Medium,Excellent
+Male,Hr,No,9.47,67.2,Not Placed,,Not Applicable,,0,Excellent,Average
+Male,Business Analytics,No,9.68,55.0,Placed,1178453.0,Deloitte,11.78453,1,Excellent,Poor
+Male,Operations,No,9.56,73.8,Placed,1204850.0,Deloitte,12.0485,1,Excellent,Average
+Male,Hr,Yes,7.54,62.6,Placed,506846.0,Kpmg,5.06846,1,High,Average
+Male,Marketing,No,9.21,64.0,Not Placed,,Not Applicable,,0,Excellent,Average
+Female,Marketing,No,9.13,65.1,Not Placed,,Not Applicable,,0,Excellent,Average
+Male,Finance,No,6.87,89.3,Placed,994335.0,Tcs,9.94335,1,Medium,Good
+Female,Hr,Yes,9.06,76.4,Placed,1335354.0,Amazon,13.35354,1,Excellent,Good
+Female,Operations,Yes,5.66,65.3,Placed,1480788.0,Accenture,14.80788,1,Low,Average
+Female,Business Analytics,Yes,8.06,79.9,Placed,1088140.0,Ey,10.8814,1,High,Good
+Male,Business Analytics,Yes,6.49,85.1,Placed,1393365.0,Icici Bank,13.93365,1,Low,Good
+Male,Operations,Yes,6.02,63.4,Not Placed,,Not Applicable,,0,Low,Average
+Male,Finance,Yes,5.83,70.3,Placed,326086.0,Flipkart,3.26086,1,Low,Average
+Male,Business Analytics,Yes,8.49,56.0,Placed,831972.0,Amazon,8.31972,1,High,Poor
+Female,Hr,Yes,6.96,58.9,Placed,1439664.0,Infosys,14.39664,1,Medium,Poor
+Male,Finance,No,8.62,83.4,Placed,694423.0,Amazon,6.94423,1,Excellent,Good
+Male,Hr,No,5.78,58.9,Placed,890381.0,Kpmg,8.90381,1,Low,Poor
+Male,Marketing,Yes,6.86,75.7,Placed,1135083.0,Ey,11.35083,1,Medium,Good
+Male,Finance,Yes,7.82,84.7,Not Placed,,Not Applicable,,0,High,Good
+Male,Business Analytics,No,8.9,55.2,Placed,1473650.0,Hdfc Bank,14.7365,1,Excellent,Poor
+Female,Finance,Yes,6.87,77.8,Placed,1189497.0,Hdfc Bank,11.89497,1,Medium,Good
+Male,Finance,Yes,8.19,62.6,Placed,430351.0,Tcs,4.30351,1,High,Average
+Female,Finance,Yes,9.31,97.2,Not Placed,,Not Applicable,,0,Excellent,Excellent
+Male,Finance,No,8.15,73.7,Not Placed,,Not Applicable,,0,High,Average
+Female,Hr,No,6.5,89.5,Placed,338635.0,Tcs,3.38635,1,Low,Good
+Male,Marketing,No,5.6,77.0,Placed,1273619.0,Kpmg,12.73619,1,Low,Good
+Male,Operations,No,9.24,52.1,Placed,1443647.0,Flipkart,14.43647,1,Excellent,Poor
+Female,Finance,No,5.59,81.0,Placed,1295909.0,Tcs,12.95909,1,Low,Good
+Female,Business Analytics,Yes,9.26,96.6,Placed,1164950.0,Accenture,11.6495,1,Excellent,Excellent
+Female,Finance,No,7.77,79.5,Placed,1190083.0,Ey,11.90083,1,High,Good
+Male,Business Analytics,Yes,9.54,90.1,Placed,897093.0,Kpmg,8.97093,1,Excellent,Excellent
+Female,Hr,Yes,8.93,93.3,Not Placed,,Not Applicable,,0,Excellent,Excellent
+Male,Business Analytics,No,9.79,61.2,Not Placed,,Not Applicable,,0,Excellent,Average
+Male,Operations,No,7.01,60.4,Placed,721280.0,Deloitte,7.2128,1,Medium,Average
+Female,Marketing,Yes,8.8,79.9,Placed,1209245.0,Infosys,12.09245,1,Excellent,Good
+Female,Business Analytics,Yes,7.23,70.1,Placed,641207.0,Kpmg,6.41207,1,Medium,Average
+Male,Business Analytics,Yes,7.56,91.2,Placed,493226.0,Kpmg,4.93226,1,High,Excellent
+Male,Marketing,No,8.2,94.1,Placed,1492639.0,Hdfc Bank,14.92639,1,High,Excellent
+Female,Operations,No,9.26,67.3,Placed,892632.0,Icici Bank,8.92632,1,Excellent,Average
+Female,Finance,No,9.73,61.6,Placed,860881.0,Flipkart,8.60881,1,Excellent,Average
+Female,Business Analytics,No,8.8,88.2,Not Placed,,Not Applicable,,0,Excellent,Good
+Male,Marketing,No,7.3,63.5,Placed,860592.0,Icici Bank,8.60592,1,Medium,Average
+Male,Hr,Yes,7.31,90.3,Placed,1462189.0,Accenture,14.62189,1,Medium,Excellent
+Male,Marketing,No,8.67,70.8,Not Placed,,Not Applicable,,0,Excellent,Average
+Male,Hr,Yes,6.53,82.7,Placed,714299.0,Deloitte,7.14299,1,Medium,Good
+Male,Operations,Yes,5.98,54.7,Placed,584334.0,Hdfc Bank,5.84334,1,Low,Poor
+Male,Finance,Yes,7.02,80.6,Placed,721614.0,Deloitte,7.21614,1,Medium,Good
+Female,Marketing,No,6.74,72.1,Placed,1499151.0,Accenture,14.99151,1,Medium,Average
+Male,Business Analytics,No,6.77,78.7,Not Placed,,Not Applicable,,0,Medium,Good
+Male,Operations,No,6.5,58.2,Placed,425438.0,Icici Bank,4.25438,1,Low,Poor
+Male,Marketing,Yes,5.68,86.1,Placed,1322892.0,Kpmg,13.22892,1,Low,Good
+Female,Business Analytics,Yes,5.58,92.3,Not Placed,,Not Applicable,,0,Low,Excellent
+Male,Marketing,Yes,9.75,60.6,Not Placed,,Not Applicable,,0,Excellent,Average
+Male,Hr,Yes,7.34,54.7,Not Placed,,Not Applicable,,0,Medium,Poor
+Female,Marketing,Yes,7.15,51.2,Placed,1094448.0,Tcs,10.94448,1,Medium,Poor
+Male,Marketing,Yes,8.42,81.5,Placed,564528.0,Tcs,5.64528,1,High,Good
+Male,Marketing,No,6.44,79.7,Not Placed,,Not Applicable,,0,Low,Good
+Male,Operations,No,9.58,76.8,Not Placed,,Not Applicable,,0,Excellent,Good
+Male,Marketing,No,8.88,61.4,Placed,708288.0,Amazon,7.08288,1,Excellent,Average
+Male,Business Analytics,No,5.88,69.2,Placed,402239.0,Infosys,4.02239,1,Low,Average
+Female,Hr,Yes,7.3,79.1,Placed,935719.0,Flipkart,9.35719,1,Medium,Good
+Female,Hr,Yes,9.28,74.3,Not Placed,,Not Applicable,,0,Excellent,Average
+Female,Marketing,No,9.56,98.4,Placed,1004293.0,Accenture,10.04293,1,Excellent,Excellent
+Male,Operations,Yes,7.51,56.7,Placed,1108258.0,Infosys,11.08258,1,High,Poor
+Male,Operations,No,8.14,84.1,Placed,630170.0,Flipkart,6.3017,1,High,Good
+Male,Business Analytics,No,6.22,69.8,Placed,421668.0,Infosys,4.21668,1,Low,Average
+Female,Marketing,No,9.76,71.0,Not Placed,,Not Applicable,,0,Excellent,Average
+Male,Hr,Yes,6.5,85.2,Placed,1066988.0,Icici Bank,10.66988,1,Low,Good
+Male,Operations,No,9.55,83.9,Not Placed,,Not Applicable,,0,Excellent,Good
+Female,Marketing,No,8.29,98.6,Not Placed,,Not Applicable,,0,High,Excellent
+Male,Operations,No,8.11,56.3,Placed,848333.0,Flipkart,8.48333,1,High,Poor
+Female,Operations,Yes,7.7,55.1,Placed,481948.0,Icici Bank,4.81948,1,High,Poor
+Female,Hr,Yes,6.49,85.5,Placed,785662.0,Kpmg,7.85662,1,Low,Good
+Female,Finance,No,6.26,78.3,Not Placed,,Not Applicable,,0,Low,Good
+Male,Business Analytics,Yes,6.45,63.4,Placed,914390.0,Hdfc Bank,9.1439,1,Low,Average
+Male,Business Analytics,Yes,6.3,53.9,Placed,614063.0,Icici Bank,6.14063,1,Low,Poor
+Male,Hr,Yes,8.85,54.2,Not Placed,,Not Applicable,,0,Excellent,Poor
+Male,Operations,Yes,7.01,93.8,Placed,549877.0,Tcs,5.49877,1,Medium,Excellent
+Male,Marketing,Yes,5.75,59.4,Not Placed,,Not Applicable,,0,Low,Poor
+Male,Operations,Yes,9.67,65.8,Placed,1253692.0,Infosys,12.53692,1,Excellent,Average
+Male,Hr,Yes,9.3,61.1,Placed,1485493.0,Amazon,14.85493,1,Excellent,Average
+Female,Business Analytics,Yes,9.49,67.4,Placed,517770.0,Ey,5.1777,1,Excellent,Average
+Male,Operations,Yes,9.78,53.4,Not Placed,,Not Applicable,,0,Excellent,Poor
+Female,Business Analytics,Yes,6.25,75.4,Placed,942613.0,Flipkart,9.42613,1,Low,Good
+Male,Marketing,No,7.2,53.3,Not Placed,,Not Applicable,,0,Medium,Poor
+Male,Business Analytics,No,8.76,89.2,Not Placed,,Not Applicable,,0,Excellent,Good
+Male,Business Analytics,Yes,8.49,61.5,Placed,977673.0,Accenture,9.77673,1,High,Average
+Female,Finance,No,6.16,76.5,Not Placed,,Not Applicable,,0,Low,Good
+Female,Finance,No,9.01,93.1,Placed,1244447.0,Amazon,12.44447,1,Excellent,Excellent
+Female,Finance,Yes,6.47,81.9,Placed,640093.0,Tcs,6.40093,1,Low,Good
+Female,Business Analytics,Yes,6.46,76.1,Placed,1322145.0,Icici Bank,13.22145,1,Low,Good
+Male,Hr,Yes,7.81,65.9,Not Placed,,Not Applicable,,0,High,Average
+Female,Business Analytics,No,8.05,66.3,Placed,905730.0,Hdfc Bank,9.0573,1,High,Average
+Male,Hr,No,7.99,82.8,Placed,1398423.0,Kpmg,13.98423,1,High,Good
+Male,Hr,Yes,5.89,98.7,Placed,1407229.0,Ey,14.07229,1,Low,Excellent
+Female,Finance,Yes,9.27,82.4,Placed,618766.0,Deloitte,6.18766,1,Excellent,Good
+Female,Operations,Yes,6.64,77.3,Placed,1426418.0,Amazon,14.26418,1,Medium,Good
+Female,Marketing,No,6.06,85.8,Not Placed,,Not Applicable,,0,Low,Good
+Female,Finance,No,9.32,72.8,Not Placed,,Not Applicable,,0,Excellent,Average
+Female,Finance,No,9.61,52.9,Placed,572647.0,Hdfc Bank,5.72647,1,Excellent,Poor
+Female,Operations,No,9.21,77.6,Not Placed,,Not Applicable,,0,Excellent,Good
+Female,Marketing,Yes,8.98,96.9,Placed,384761.0,Deloitte,3.84761,1,Excellent,Excellent
+Female,Business Analytics,Yes,8.32,58.6,Not Placed,,Not Applicable,,0,High,Poor
+Male,Business Analytics,Yes,7.87,83.8,Placed,1098022.0,Ey,10.98022,1,High,Good
+Female,Finance,Yes,5.87,59.8,Placed,966246.0,Accenture,9.66246,1,Low,Poor
+Female,Marketing,No,7.26,76.3,Placed,1230370.0,Accenture,12.3037,1,Medium,Good
+Male,Finance,No,7.1,54.7,Not Placed,,Not Applicable,,0,Medium,Poor
+Female,Hr,Yes,6.62,72.1,Placed,628768.0,Infosys,6.28768,1,Medium,Average
+Male,Finance,Yes,8.61,87.1,Placed,988152.0,Ey,9.88152,1,Excellent,Good
+Male,Finance,No,7.63,67.0,Placed,702980.0,Ey,7.0298,1,High,Average
+Female,Business Analytics,Yes,5.85,82.6,Placed,1338336.0,Deloitte,13.38336,1,Low,Good
+Male,Business Analytics,No,6.45,89.0,Placed,1081198.0,Hdfc Bank,10.81198,1,Low,Good
+Male,Business Analytics,Yes,8.44,95.4,Placed,1468932.0,Flipkart,14.68932,1,High,Excellent
+Male,Hr,Yes,5.83,61.5,Not Placed,,Not Applicable,,0,Low,Average
+Male,Business Analytics,Yes,9.16,69.6,Placed,342727.0,Deloitte,3.42727,1,Excellent,Average
+Female,Marketing,Yes,7.63,57.5,Not Placed,,Not Applicable,,0,High,Poor
+Male,Operations,Yes,7.57,98.6,Placed,640615.0,Kpmg,6.40615,1,High,Excellent
+Female,Marketing,Yes,8.05,95.4,Not Placed,,Not Applicable,,0,High,Excellent
+Male,Marketing,Yes,9.05,76.5,Not Placed,,Not Applicable,,0,Excellent,Good
+Male,Business Analytics,No,7.0,91.3,Placed,941211.0,Accenture,9.41211,1,Medium,Excellent
+Male,Operations,No,8.42,75.5,Placed,734376.0,Accenture,7.34376,1,High,Good
+Male,Operations,No,7.93,80.6,Placed,311390.0,Infosys,3.1139,1,High,Good
+Female,Operations,No,6.65,54.4,Placed,931040.0,Kpmg,9.3104,1,Medium,Poor
+Female,Hr,No,9.28,87.0,Not Placed,,Not Applicable,,0,Excellent,Good
+Male,Business Analytics,Yes,8.93,56.3,Placed,1237635.0,Accenture,12.37635,1,Excellent,Poor
+Male,Operations,Yes,8.33,90.5,Placed,1269831.0,Deloitte,12.69831,1,High,Excellent
+Female,Hr,No,9.16,88.3,Placed,1049078.0,Kpmg,10.49078,1,Excellent,Good
+Male,Finance,Yes,9.23,84.7,Not Placed,,Not Applicable,,0,Excellent,Good
+Male,Finance,No,8.55,51.8,Placed,321281.0,Deloitte,3.21281,1,Excellent,Poor
+Male,Hr,No,9.1,64.9,Placed,354189.0,Flipkart,3.54189,1,Excellent,Average
+Female,Hr,Yes,8.5,62.9,Placed,562093.0,Flipkart,5.62093,1,High,Average
+Female,Business Analytics,Yes,8.42,67.6,Not Placed,,Not Applicable,,0,High,Average
+Female,Business Analytics,Yes,8.16,54.3,Placed,662462.0,Accenture,6.62462,1,High,Poor
+Male,Finance,No,8.74,95.9,Placed,694597.0,Accenture,6.94597,1,Excellent,Excellent
+Male,Operations,Yes,6.18,77.1,Placed,1106242.0,Hdfc Bank,11.06242,1,Low,Good
+Female,Finance,No,9.29,65.0,Placed,979682.0,Flipkart,9.79682,1,Excellent,Average
+Female,Operations,No,9.25,69.5,Placed,1390445.0,Amazon,13.90445,1,Excellent,Average
+Female,Operations,No,5.63,71.9,Not Placed,,Not Applicable,,0,Low,Average
+Female,Business Analytics,Yes,9.05,79.4,Placed,857243.0,Amazon,8.57243,1,Excellent,Good
+Male,Marketing,Yes,6.05,75.3,Placed,310207.0,Infosys,3.10207,1,Low,Good
+Female,Marketing,No,6.94,95.1,Placed,518401.0,Flipkart,5.18401,1,Medium,Excellent
+Male,Hr,Yes,8.7,74.4,Not Placed,,Not Applicable,,0,Excellent,Average
+Female,Business Analytics,Yes,6.19,98.6,Placed,1285132.0,Deloitte,12.85132,1,Low,Excellent
+Male,Operations,Yes,9.02,91.7,Not Placed,,Not Applicable,,0,Excellent,Excellent
+Female,Marketing,No,9.08,60.2,Placed,459292.0,Deloitte,4.59292,1,Excellent,Average
+Female,Operations,No,7.68,95.6,Placed,796762.0,Tcs,7.96762,1,High,Excellent
+Female,Marketing,Yes,5.53,55.7,Placed,1370607.0,Kpmg,13.70607,1,Low,Poor
+Female,Marketing,No,6.73,90.1,Placed,763937.0,Icici Bank,7.63937,1,Medium,Excellent
+Male,Marketing,Yes,8.15,68.7,Placed,1167239.0,Amazon,11.67239,1,High,Average
+Female,Business Analytics,Yes,9.72,93.0,Placed,895600.0,Accenture,8.956,1,Excellent,Excellent
+Male,Finance,Yes,8.22,92.5,Placed,884054.0,Infosys,8.84054,1,High,Excellent
+Male,Operations,Yes,6.62,89.5,Not Placed,,Not Applicable,,0,Medium,Good
+Male,Business Analytics,No,8.23,88.7,Placed,1492097.0,Icici Bank,14.92097,1,High,Good
+Male,Business Analytics,No,7.82,64.9,Not Placed,,Not Applicable,,0,High,Average
+Female,Business Analytics,No,8.85,54.0,Placed,651977.0,Ey,6.51977,1,Excellent,Poor
+Male,Business Analytics,Yes,5.96,69.7,Placed,487771.0,Infosys,4.87771,1,Low,Average
+Male,Business Analytics,Yes,8.77,58.5,Placed,537199.0,Ey,5.37199,1,Excellent,Poor
+Male,Hr,Yes,7.83,84.1,Placed,1298757.0,Flipkart,12.98757,1,High,Good
+Female,Operations,No,9.64,67.0,Placed,1060129.0,Ey,10.60129,1,Excellent,Average
+Female,Business Analytics,Yes,6.97,97.8,Placed,935329.0,Ey,9.35329,1,Medium,Excellent
+Female,Operations,No,8.22,81.4,Placed,940473.0,Hdfc Bank,9.40473,1,High,Good
+Female,Hr,No,9.51,90.3,Placed,477164.0,Hdfc Bank,4.77164,1,Excellent,Excellent
+Male,Hr,No,5.94,56.5,Placed,1051518.0,Hdfc Bank,10.51518,1,Low,Poor
+Male,Operations,No,9.53,92.2,Not Placed,,Not Applicable,,0,Excellent,Excellent
+Female,Marketing,No,8.46,95.2,Not Placed,,Not Applicable,,0,High,Excellent
+Male,Finance,No,5.79,73.9,Not Placed,,Not Applicable,,0,Low,Average
+Male,Marketing,Yes,6.79,79.7,Not Placed,,Not Applicable,,0,Medium,Good
+Male,Marketing,Yes,8.55,87.5,Placed,813313.0,Flipkart,8.13313,1,Excellent,Good
+Female,Marketing,No,5.79,58.6,Placed,1342726.0,Icici Bank,13.42726,1,Low,Poor
+Female,Business Analytics,No,8.0,74.6,Not Placed,,Not Applicable,,0,High,Average
+Male,Hr,Yes,6.99,69.5,Placed,1417063.0,Infosys,14.17063,1,Medium,Average
+Female,Marketing,No,8.17,57.2,Placed,448694.0,Infosys,4.48694,1,High,Poor
+Female,Hr,No,5.7,68.0,Placed,423853.0,Accenture,4.23853,1,Low,Average
+Female,Operations,Yes,9.25,53.3,Placed,535062.0,Hdfc Bank,5.35062,1,Excellent,Poor
+Female,Finance,No,9.69,51.3,Placed,533077.0,Flipkart,5.33077,1,Excellent,Poor
+Female,Operations,No,9.67,56.6,Not Placed,,Not Applicable,,0,Excellent,Poor
+Male,Operations,No,8.72,97.2,Placed,1187516.0,Accenture,11.87516,1,Excellent,Excellent
+Female,Business Analytics,Yes,6.06,76.9,Placed,1372358.0,Kpmg,13.72358,1,Low,Good
+Male,Finance,Yes,8.76,97.3,Not Placed,,Not Applicable,,0,Excellent,Excellent
+Male,Operations,Yes,5.61,71.2,Placed,954224.0,Accenture,9.54224,1,Low,Average
+Female,Operations,No,5.6,65.3,Placed,453245.0,Icici Bank,4.53245,1,Low,Average
+Male,Finance,No,6.89,74.8,Placed,1470834.0,Amazon,14.70834,1,Medium,Average
+Male,Finance,Yes,7.6,71.5,Not Placed,,Not Applicable,,0,High,Average
+Male,Operations,No,8.81,55.2,Not Placed,,Not Applicable,,0,Excellent,Poor
+Female,Finance,No,8.44,81.4,Placed,754418.0,Ey,7.54418,1,High,Good
+Female,Operations,No,7.42,60.6,Not Placed,,Not Applicable,,0,Medium,Average
+Male,Operations,No,6.68,80.4,Placed,578710.0,Hdfc Bank,5.7871,1,Medium,Good
+Female,Business Analytics,No,9.79,81.9,Not Placed,,Not Applicable,,0,Excellent,Good
+Female,Marketing,Yes,7.33,57.4,Not Placed,,Not Applicable,,0,Medium,Poor
+Female,Operations,No,7.44,53.0,Not Placed,,Not Applicable,,0,Medium,Poor
+Female,Hr,Yes,6.2,88.3,Placed,962550.0,Amazon,9.6255,1,Low,Good
+Male,Marketing,No,8.92,72.5,Not Placed,,Not Applicable,,0,Excellent,Average
+Male,Marketing,Yes,8.48,52.9,Not Placed,,Not Applicable,,0,High,Poor
+Female,Marketing,No,6.45,98.7,Placed,1306111.0,Accenture,13.06111,1,Low,Excellent
+Female,Business Analytics,Yes,5.85,52.8,Not Placed,,Not Applicable,,0,Low,Poor
+Male,Operations,No,8.43,84.1,Placed,862621.0,Flipkart,8.62621,1,High,Good
+Male,Business Analytics,Yes,8.31,98.2,Not Placed,,Not Applicable,,0,High,Excellent
+Female,Operations,No,6.68,61.7,Placed,913859.0,Ey,9.13859,1,Medium,Average
+Male,Business Analytics,Yes,9.59,57.0,Placed,1468839.0,Infosys,14.68839,1,Excellent,Poor
+Female,Business Analytics,No,6.15,55.9,Placed,300159.0,Deloitte,3.00159,1,Low,Poor
+Female,Hr,Yes,7.36,64.9,Placed,1298413.0,Ey,12.98413,1,Medium,Average
+Male,Business Analytics,Yes,9.56,55.0,Placed,667003.0,Icici Bank,6.67003,1,Excellent,Poor
+Male,Finance,No,7.3,83.9,Placed,1495885.0,Icici Bank,14.95885,1,Medium,Good
+Female,Hr,No,8.25,53.1,Placed,1456083.0,Accenture,14.56083,1,High,Poor
+Female,Business Analytics,Yes,7.21,75.0,Placed,1363319.0,Kpmg,13.63319,1,Medium,Average
+Male,Marketing,No,6.68,98.8,Placed,1394677.0,Icici Bank,13.94677,1,Medium,Excellent
+Female,Finance,Yes,9.73,89.9,Placed,945822.0,Icici Bank,9.45822,1,Excellent,Good
+Male,Finance,Yes,7.26,80.1,Placed,636907.0,Flipkart,6.36907,1,Medium,Good
+Female,Finance,Yes,9.34,65.0,Not Placed,,Not Applicable,,0,Excellent,Average
+Male,Hr,No,6.49,80.6,Placed,787030.0,Accenture,7.8703,1,Low,Good
+Male,Business Analytics,Yes,6.42,75.8,Not Placed,,Not Applicable,,0,Low,Good
+Male,Business Analytics,Yes,5.63,70.9,Not Placed,,Not Applicable,,0,Low,Average
+Female,Marketing,No,8.3,56.4,Placed,705453.0,Ey,7.05453,1,High,Poor
+Female,Marketing,No,7.08,93.4,Placed,971009.0,Kpmg,9.71009,1,Medium,Excellent
+Male,Finance,No,9.22,72.0,Not Placed,,Not Applicable,,0,Excellent,Average
+Female,Marketing,No,7.53,59.5,Placed,468785.0,Amazon,4.68785,1,High,Poor
+Male,Hr,Yes,9.66,68.0,Placed,504535.0,Deloitte,5.04535,1,Excellent,Average
+Male,Business Analytics,Yes,6.3,70.3,Placed,1000769.0,Hdfc Bank,10.00769,1,Low,Average
+Female,Finance,Yes,9.24,90.5,Not Placed,,Not Applicable,,0,Excellent,Excellent
+Female,Marketing,Yes,8.84,85.9,Placed,479838.0,Infosys,4.79838,1,Excellent,Good
+Male,Hr,No,8.81,87.7,Placed,870442.0,Icici Bank,8.70442,1,Excellent,Good
+Female,Hr,Yes,9.13,50.5,Not Placed,,Not Applicable,,0,Excellent,Poor
+Female,Marketing,Yes,8.77,70.4,Not Placed,,Not Applicable,,0,Excellent,Average
+Male,Business Analytics,No,8.19,73.6,Placed,569160.0,Accenture,5.6916,1,High,Average
+Male,Marketing,Yes,6.06,50.9,Placed,772779.0,Hdfc Bank,7.72779,1,Low,Poor
+Female,Finance,Yes,5.64,62.7,Not Placed,,Not Applicable,,0,Low,Average
+Male,Marketing,Yes,9.46,87.3,Placed,741904.0,Infosys,7.41904,1,Excellent,Good
+Male,Hr,Yes,8.15,56.7,Placed,1176110.0,Infosys,11.7611,1,High,Poor
+Female,Marketing,Yes,8.93,76.2,Placed,1198488.0,Amazon,11.98488,1,Excellent,Good
+Male,Business Analytics,Yes,7.57,60.5,Not Placed,,Not Applicable,,0,High,Average
+Male,Operations,No,6.0,50.6,Placed,878526.0,Amazon,8.78526,1,Low,Poor
+Female,Marketing,No,6.04,61.8,Not Placed,,Not Applicable,,0,Low,Average
+Female,Business Analytics,Yes,8.45,97.8,Not Placed,,Not Applicable,,0,High,Excellent
+Male,Business Analytics,Yes,7.35,89.3,Placed,620752.0,Amazon,6.20752,1,Medium,Good
+Male,Hr,No,6.36,97.0,Placed,1137393.0,Tcs,11.37393,1,Low,Excellent
+Female,Business Analytics,Yes,7.61,73.9,Placed,1262261.0,Tcs,12.62261,1,High,Average
+Female,Business Analytics,Yes,5.78,55.4,Placed,1240240.0,Infosys,12.4024,1,Low,Poor
+Female,Business Analytics,Yes,8.0,76.9,Placed,1114422.0,Amazon,11.14422,1,High,Good
+Female,Business Analytics,No,6.66,72.3,Not Placed,,Not Applicable,,0,Medium,Average
+Male,Finance,Yes,8.93,91.4,Placed,1411127.0,Flipkart,14.11127,1,Excellent,Excellent
+Female,Finance,No,6.83,54.8,Not Placed,,Not Applicable,,0,Medium,Poor
+Female,Hr,Yes,7.46,73.9,Placed,1034983.0,Icici Bank,10.34983,1,Medium,Average
+Male,Marketing,No,5.55,57.4,Placed,466277.0,Hdfc Bank,4.66277,1,Low,Poor
+Female,Business Analytics,No,5.81,65.9,Placed,1338660.0,Hdfc Bank,13.3866,1,Low,Average
+Male,Marketing,Yes,7.19,86.1,Placed,380811.0,Tcs,3.80811,1,Medium,Good
+Female,Marketing,No,7.56,73.3,Placed,1079128.0,Infosys,10.79128,1,High,Average
+Female,Hr,Yes,8.08,68.4,Placed,1141535.0,Accenture,11.41535,1,High,Average
+Female,Business Analytics,No,6.75,69.3,Placed,1259131.0,Ey,12.59131,1,Medium,Average
+Male,Business Analytics,Yes,8.49,72.5,Placed,534104.0,Ey,5.34104,1,High,Average
+Male,Operations,Yes,9.2,88.5,Placed,502346.0,Tcs,5.02346,1,Excellent,Good
+Female,Marketing,No,8.85,93.7,Placed,484456.0,Accenture,4.84456,1,Excellent,Excellent
+Male,Marketing,Yes,5.67,96.8,Placed,436643.0,Tcs,4.36643,1,Low,Excellent
+Male,Finance,Yes,7.57,88.6,Not Placed,,Not Applicable,,0,High,Good
+Male,Operations,No,5.95,65.5,Placed,1462126.0,Ey,14.62126,1,Low,Average
+Male,Finance,Yes,6.54,83.7,Not Placed,,Not Applicable,,0,Medium,Good
+Male,Finance,Yes,9.74,71.4,Placed,784146.0,Accenture,7.84146,1,Excellent,Average
+Male,Finance,No,6.11,62.5,Placed,1260652.0,Amazon,12.60652,1,Low,Average
+Female,Hr,No,7.65,91.2,Placed,391218.0,Infosys,3.91218,1,High,Excellent
+Female,Hr,Yes,8.16,51.9,Placed,1481872.0,Hdfc Bank,14.81872,1,High,Poor
+Male,Finance,Yes,8.52,94.2,Placed,1207211.0,Flipkart,12.07211,1,Excellent,Excellent
+Female,Operations,No,7.91,72.6,Placed,332441.0,Kpmg,3.32441,1,High,Average
+Female,Marketing,No,5.54,81.2,Placed,994489.0,Infosys,9.94489,1,Low,Good
+Female,Operations,Yes,6.9,82.3,Placed,1055612.0,Amazon,10.55612,1,Medium,Good
+Female,Business Analytics,No,7.73,93.9,Placed,344760.0,Ey,3.4476,1,High,Excellent
+Male,Hr,Yes,5.88,81.2,Not Placed,,Not Applicable,,0,Low,Good
+Female,Marketing,Yes,7.01,80.1,Placed,1347159.0,Amazon,13.47159,1,Medium,Good
+Female,Marketing,Yes,5.64,53.3,Placed,585622.0,Tcs,5.85622,1,Low,Poor
+Male,Business Analytics,Yes,5.84,75.4,Placed,967540.0,Accenture,9.6754,1,Low,Good
+Male,Business Analytics,Yes,7.21,57.4,Placed,398538.0,Hdfc Bank,3.98538,1,Medium,Poor
+Female,Finance,No,6.07,86.1,Placed,1116228.0,Icici Bank,11.16228,1,Low,Good
+Female,Hr,No,7.94,75.1,Placed,1275776.0,Tcs,12.75776,1,High,Good
+Female,Hr,No,8.46,83.3,Placed,811511.0,Infosys,8.11511,1,High,Good
+Female,Operations,No,8.94,52.0,Placed,1185258.0,Tcs,11.85258,1,Excellent,Poor
+Female,Finance,Yes,6.36,54.2,Placed,682736.0,Infosys,6.82736,1,Low,Poor
+Female,Finance,Yes,6.22,85.1,Placed,878328.0,Icici Bank,8.78328,1,Low,Good
+Male,Finance,Yes,5.95,53.5,Placed,1161789.0,Deloitte,11.61789,1,Low,Poor
+Female,Finance,Yes,8.24,53.5,Placed,667570.0,Hdfc Bank,6.6757,1,High,Poor
+Female,Hr,No,8.54,50.6,Placed,567986.0,Flipkart,5.67986,1,Excellent,Poor
+Male,Hr,Yes,5.64,96.9,Not Placed,,Not Applicable,,0,Low,Excellent
+Male,Finance,Yes,9.53,86.1,Placed,756331.0,Flipkart,7.56331,1,Excellent,Good
+Male,Operations,No,5.72,67.3,Placed,1103940.0,Kpmg,11.0394,1,Low,Average
+Male,Marketing,No,7.83,64.5,Placed,453077.0,Amazon,4.53077,1,High,Average
+Female,Marketing,No,8.55,67.1,Not Placed,,Not Applicable,,0,Excellent,Average
+Female,Operations,No,9.25,88.0,Placed,1403151.0,Deloitte,14.03151,1,Excellent,Good
+Female,Finance,Yes,8.57,82.4,Placed,718815.0,Flipkart,7.18815,1,Excellent,Good
+Female,Hr,Yes,8.95,59.1,Placed,780808.0,Tcs,7.80808,1,Excellent,Poor
+Female,Marketing,No,6.96,58.5,Placed,1073422.0,Amazon,10.73422,1,Medium,Poor
+Female,Business Analytics,Yes,9.0,54.8,Placed,891343.0,Deloitte,8.91343,1,Excellent,Poor
+Male,Business Analytics,Yes,5.84,82.4,Placed,930527.0,Accenture,9.30527,1,Low,Good
+Female,Operations,Yes,9.35,87.5,Not Placed,,Not Applicable,,0,Excellent,Good
+Male,Finance,No,7.85,63.0,Placed,535469.0,Accenture,5.35469,1,High,Average
+Male,Marketing,Yes,9.01,51.0,Placed,1471682.0,Amazon,14.71682,1,Excellent,Poor
+Female,Finance,No,7.44,54.0,Not Placed,,Not Applicable,,0,Medium,Poor
+Male,Marketing,Yes,8.27,97.4,Placed,1091787.0,Infosys,10.91787,1,High,Excellent
+Female,Operations,Yes,7.76,64.5,Placed,767835.0,Infosys,7.67835,1,High,Average
+Male,Operations,Yes,8.65,87.7,Placed,600486.0,Tcs,6.00486,1,Excellent,Good
+Female,Business Analytics,No,5.85,80.6,Placed,302257.0,Deloitte,3.02257,1,Low,Good
+Male,Finance,Yes,5.76,68.7,Placed,1460291.0,Deloitte,14.60291,1,Low,Average
+Female,Business Analytics,No,6.56,60.1,Not Placed,,Not Applicable,,0,Medium,Average
+Female,Finance,No,6.19,55.9,Placed,1375230.0,Amazon,13.7523,1,Low,Poor
+Female,Business Analytics,No,9.25,80.1,Placed,643567.0,Ey,6.43567,1,Excellent,Good
+Female,Hr,Yes,6.44,88.0,Placed,591464.0,Accenture,5.91464,1,Low,Good
+Female,Hr,Yes,9.7,81.6,Not Placed,,Not Applicable,,0,Excellent,Good
+Male,Hr,Yes,6.95,76.0,Not Placed,,Not Applicable,,0,Medium,Good
+Male,Hr,Yes,6.28,52.1,Not Placed,,Not Applicable,,0,Low,Poor
+Male,Marketing,No,8.9,97.5,Placed,845096.0,Deloitte,8.45096,1,Excellent,Excellent
+Female,Hr,No,8.33,89.1,Placed,876677.0,Amazon,8.76677,1,High,Good
+Male,Operations,No,7.64,64.3,Placed,788906.0,Icici Bank,7.88906,1,High,Average
+Female,Operations,Yes,7.89,98.0,Placed,418581.0,Kpmg,4.18581,1,High,Excellent
+Female,Marketing,No,8.59,79.5,Placed,1476503.0,Icici Bank,14.76503,1,Excellent,Good
+Male,Hr,Yes,6.48,78.5,Placed,1383349.0,Hdfc Bank,13.83349,1,Low,Good
+Male,Hr,No,9.78,86.7,Placed,638540.0,Tcs,6.3854,1,Excellent,Good
+Female,Hr,Yes,9.69,89.8,Placed,801590.0,Deloitte,8.0159,1,Excellent,Good
+Male,Business Analytics,Yes,8.3,82.2,Placed,1172328.0,Hdfc Bank,11.72328,1,High,Good
+Female,Finance,No,6.36,56.3,Placed,915175.0,Flipkart,9.15175,1,Low,Poor
+Female,Business Analytics,No,8.42,66.6,Placed,1470694.0,Hdfc Bank,14.70694,1,High,Average
+Female,Finance,No,5.81,95.5,Placed,1313539.0,Amazon,13.13539,1,Low,Excellent
+Female,Hr,No,5.63,61.0,Placed,1148923.0,Deloitte,11.48923,1,Low,Average
+Female,Hr,Yes,6.61,68.2,Not Placed,,Not Applicable,,0,Medium,Average
+Male,Business Analytics,No,7.49,71.2,Placed,778356.0,Kpmg,7.78356,1,Medium,Average
+Male,Business Analytics,No,9.23,71.5,Placed,579067.0,Amazon,5.79067,1,Excellent,Average
+Female,Finance,No,8.63,80.0,Placed,616480.0,Amazon,6.1648,1,Excellent,Good
+Female,Operations,Yes,8.69,96.2,Not Placed,,Not Applicable,,0,Excellent,Excellent
+Male,Finance,Yes,7.33,61.8,Placed,636227.0,Tcs,6.36227,1,Medium,Average
+Male,Business Analytics,No,6.99,56.0,Placed,464074.0,Tcs,4.64074,1,Medium,Poor
+Female,Business Analytics,Yes,7.1,59.7,Placed,773314.0,Accenture,7.73314,1,Medium,Poor
+Male,Marketing,No,9.75,93.5,Placed,588816.0,Accenture,5.88816,1,Excellent,Excellent
+Female,Business Analytics,Yes,5.67,81.6,Placed,1090645.0,Infosys,10.90645,1,Low,Good
+Male,Marketing,Yes,9.23,64.0,Placed,1489941.0,Ey,14.89941,1,Excellent,Average
+Female,Operations,Yes,7.99,90.0,Not Placed,,Not Applicable,,0,High,Good
+Male,Finance,Yes,7.39,92.2,Placed,1317481.0,Deloitte,13.17481,1,Medium,Excellent
+Female,Finance,No,8.62,91.5,Not Placed,,Not Applicable,,0,Excellent,Excellent
+Male,Marketing,No,7.59,95.0,Not Placed,,Not Applicable,,0,High,Excellent
+Male,Finance,No,9.26,62.4,Placed,362507.0,Deloitte,3.62507,1,Excellent,Average
+Female,Business Analytics,Yes,9.37,87.0,Not Placed,,Not Applicable,,0,Excellent,Good
+Male,Hr,No,7.31,72.6,Placed,1405710.0,Hdfc Bank,14.0571,1,Medium,Average
+Female,Marketing,No,6.69,91.3,Placed,433172.0,Deloitte,4.33172,1,Medium,Excellent
+Male,Finance,No,8.05,85.7,Placed,541225.0,Deloitte,5.41225,1,High,Good
+Female,Marketing,Yes,9.42,88.0,Placed,493069.0,Ey,4.93069,1,Excellent,Good
+Male,Marketing,Yes,6.41,82.2,Placed,1114604.0,Flipkart,11.14604,1,Low,Good
+Female,Hr,Yes,8.18,58.7,Placed,1106564.0,Accenture,11.06564,1,High,Poor
+Male,Business Analytics,No,8.22,76.7,Placed,796013.0,Accenture,7.96013,1,High,Good
+Female,Marketing,No,8.65,98.2,Placed,594025.0,Kpmg,5.94025,1,Excellent,Excellent
+Male,Finance,No,6.07,95.9,Placed,1037954.0,Deloitte,10.37954,1,Low,Excellent
+Female,Operations,Yes,8.58,52.1,Placed,1110904.0,Ey,11.10904,1,Excellent,Poor
+Female,Marketing,Yes,9.41,58.1,Placed,1007173.0,Accenture,10.07173,1,Excellent,Poor
+Female,Marketing,No,6.27,56.5,Placed,1055728.0,Ey,10.55728,1,Low,Poor
+Male,Hr,Yes,6.52,85.6,Not Placed,,Not Applicable,,0,Medium,Good
+Female,Business Analytics,Yes,9.68,90.1,Placed,616275.0,Icici Bank,6.16275,1,Excellent,Excellent
+Male,Operations,Yes,6.28,60.5,Not Placed,,Not Applicable,,0,Low,Average
+Female,Finance,Yes,9.17,74.8,Placed,979447.0,Flipkart,9.79447,1,Excellent,Average
+Male,Operations,No,7.62,91.2,Placed,1361404.0,Deloitte,13.61404,1,High,Excellent
+Female,Finance,Yes,6.56,85.9,Placed,1279114.0,Kpmg,12.79114,1,Medium,Good
+Male,Business Analytics,Yes,9.24,76.6,Placed,1183096.0,Hdfc Bank,11.83096,1,Excellent,Good
+Male,Finance,Yes,7.41,78.9,Placed,816835.0,Accenture,8.16835,1,Medium,Good
+Female,Hr,Yes,7.71,74.9,Not Placed,,Not Applicable,,0,High,Average
+Male,Hr,No,7.04,64.6,Placed,956761.0,Icici Bank,9.56761,1,Medium,Average
+Male,Hr,No,8.05,77.7,Not Placed,,Not Applicable,,0,High,Good
+Female,Hr,Yes,6.2,83.8,Not Placed,,Not Applicable,,0,Low,Good
+Male,Operations,Yes,7.18,92.8,Not Placed,,Not Applicable,,0,Medium,Excellent
+Male,Business Analytics,Yes,9.67,81.2,Not Placed,,Not Applicable,,0,Excellent,Good
+Male,Finance,Yes,6.61,87.3,Placed,1101625.0,Ey,11.01625,1,Medium,Good
+Female,Finance,Yes,8.32,57.8,Placed,738080.0,Tcs,7.3808,1,High,Poor
+Male,Hr,Yes,6.9,72.6,Placed,581755.0,Amazon,5.81755,1,Medium,Average
+Female,Hr,No,8.83,50.5,Placed,999151.0,Deloitte,9.99151,1,Excellent,Poor
